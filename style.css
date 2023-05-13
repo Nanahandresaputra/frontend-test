@@ -1,0 +1,18 @@
+* {
+    padding:0;
+    margin: 0;
+}
+
+.bg-light2 {
+    background-color: #E8E8E8;
+}
+.h-50vh {
+    height: 50vh;
+}
+.h-25vh {
+    height: 25vh;
+}
+
+.disabledTab{
+    pointer-events: none;
+}
